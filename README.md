@@ -41,12 +41,14 @@ Los códigos están explicados individualmente dentro de cada archivo.
 
 Una breve descripción de cada uno:
 
-`Gaia_DR2.ipynb`         - Completa y arregla datos obtenidos de Gaia DR2
+`Gaia_DR2.ipynb`                      - Completa y arregla datos obtenidos de Gaia DR2
+ 
+`Gaia_DR3.ipynb`                      - Completa y arregla datos obtenidos de Gaia DR3
 
-`Gaia_DR3.ipynb`         - Completa y arregla datos obtenidos de Gaia DR3
+`SDSS.ipynb`                          - Completa y arregla datos obtenidos del SVO MOC
 
-`SDSS.ipynb`             - Completa y arregla datos obtenidos del SVO MOC
+`Merge_catalogs.ipynb`                - Une los distintos catálogos y crea los subcatálogos de asteroides de L4 y L5
 
-`Merge_catalogs.ipynb`   - Une los distintos catálogos 
+`Analysis_Jupiter_trojans_Gaia.ipynb` - Analiza los datos de asteroides provenientes unicamente de Gaia DR2 y DR3
 
 Por otro lado, los archivos con las observaciones se encuentran en las respectivas carpetas: aquellos documentos relativos a observaciones de Gaia están en la carpeta `\Datos_Gaia\`, los relativos a SDSS en `\Datos_Sloan\`, y los comunes en `\Datos\`.
